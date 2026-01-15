@@ -19,6 +19,17 @@ The website includes modern UI features like **dark mode support** and a **resum
 - Clean and modern user interface
 
 ---
+## 🖼️ Screenshots
+
+### Home Page (Light Mode)
+![Home_Page](screenshots/Screenshot 2026-01-15 190510.png)
+
+### Home Page (Dark Mode)
+![Skills_Page](screenshots/Screenshot 2026-01-15 191009.png)
+
+### Projects Section
+![Projects](screenshots/Screenshot 2026-01-15 191027.png)
+
 
 ## 🧰 Tech Stack
 
